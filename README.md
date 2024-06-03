@@ -36,8 +36,8 @@ speed_of_conveyor = 2 * rpm
 - 1:                        MotorDriver
 
 ### Options
-- You can either buy 90 degree cornors for the frame or print them yourself (2 x frame_cornors1.stl & 2 x frame_cornors_mirrir.stl)
-- You need a DriverExtension for your RollerEndingWithMotor.
+- You can either buy 90 degree cornors for the frame or print them yourself (2 x frame_cornors.stl & 2 x frame_cornors_mirrir.stl)
+- You need a DriverExtension for your RollerEndingWithMotor. Depending on what speed you want, you can either print DriverExtensionSlowSpeed or DriverExtensionHighSpeed. You can of course also edit the files yourself to adjust the number of teeth on the DriverExtension.
 
 ### How to build
 By now you should have everything as specified on this picture below:
